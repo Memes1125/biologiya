@@ -1,0 +1,13 @@
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\bin\Debug\netcoreapp3.1\Dimon_karton.exe
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\bin\Debug\netcoreapp3.1\Dimon_karton.deps.json
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\bin\Debug\netcoreapp3.1\Dimon_karton.runtimeconfig.json
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\bin\Debug\netcoreapp3.1\Dimon_karton.runtimeconfig.dev.json
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\bin\Debug\netcoreapp3.1\Dimon_karton.dll
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\bin\Debug\netcoreapp3.1\Dimon_karton.pdb
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\obj\Debug\netcoreapp3.1\Dimon_karton.csprojAssemblyReference.cache
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\obj\Debug\netcoreapp3.1\Dimon_karton.AssemblyInfoInputs.cache
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\obj\Debug\netcoreapp3.1\Dimon_karton.AssemblyInfo.cs
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\obj\Debug\netcoreapp3.1\Dimon_karton.csproj.CoreCompileInputs.cache
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\obj\Debug\netcoreapp3.1\Dimon_karton.dll
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\obj\Debug\netcoreapp3.1\Dimon_karton.pdb
+C:\Users\pokim\source\repos\Dimon_karton\Dimon_karton\obj\Debug\netcoreapp3.1\Dimon_karton.genruntimeconfig.cache
