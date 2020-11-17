@@ -6,6 +6,7 @@ namespace Dimon_karton
 {
     class Dog : Animal,IWalking
     {
+
         public string Name { get; set; }
         public Dog(string name, DateTime birthday)
         {

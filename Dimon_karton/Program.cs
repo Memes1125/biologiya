@@ -22,6 +22,13 @@ namespace Dimon_karton
             Console.WriteLine(ptichka.Age);
             ((ISwimming)ptichka).Swimm();
 
+            Gym gym = new Gym();
+            gym.AddAmimal(vovchik, anton,babochka,ptichka);
+           
+            gym.LetsMove();
+           
+            
+
 
 
         }
